@@ -1,0 +1,1 @@
+import MainButton from '../components/Button';
